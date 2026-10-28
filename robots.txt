@@ -19,8 +19,8 @@ Allow: /
 User-agent: *
 Disallow: /
 
-Sitemap: https://neulsoltherapy.netlify.app/sitemap.xml
-Sitemap: https://neulsoltherapy.netlify.app/sitemap-hub.xml
-Sitemap: https://neulsoltherapy.netlify.app/sitemap-area.xml
-Sitemap: https://neulsoltherapy.netlify.app/sitemap-topic.xml
-Sitemap: https://neulsoltherapy.netlify.app/rss.xml
+Sitemap: https://neulsoltherapy.pages.dev/sitemap.xml
+Sitemap: https://neulsoltherapy.pages.dev/sitemap-hub.xml
+Sitemap: https://neulsoltherapy.pages.dev/sitemap-area.xml
+Sitemap: https://neulsoltherapy.pages.dev/sitemap-topic.xml
+Sitemap: https://neulsoltherapy.pages.dev/rss.xml
